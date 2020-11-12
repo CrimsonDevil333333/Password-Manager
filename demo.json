@@ -1,0 +1,16 @@
+{
+  "1": {
+    "name": "demo1",
+    "password": "random",
+    "wtsNo": 12345,
+    "1": "www.google.com`;;`demo1@gmail.com`;;`demo",
+    "2": "www.google.com`;;`demo11@gmail.com`;;`demo",
+    "3": "www.google.com`;;`demo111@gmail.com`;;`demo"
+  },
+  "2": {
+    "name": "demo2",
+    "password": "random",
+    "wtsNo": 54321,
+    "1": "www.google.com`;;`demo2@gmail.com`;;`demo"
+  }
+}
